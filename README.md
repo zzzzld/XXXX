@@ -11,4 +11,4 @@ The code for "MTGNN: A Drug–Target–Disease Triplet Association Prediction Mo
 # Example
 Here we provide an example for using MTGNN, execute the following command:
 
-python main.py
+    python main.py
