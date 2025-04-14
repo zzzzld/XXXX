@@ -7,7 +7,7 @@ class Config:
         # self.use_gpu = True
         self.lr = 0.0075                        # Learning rate
         self.seed = 111                         # Random seed
-        self.num_epochs = 10                    # Number of training epochs100
+        self.num_epochs = 100                    # Number of training epochs
         self.dropout = 0.5                      # Dropout rate
         self.weight_decay = 0.01                # Weight decay
         self.loss_gamma = 0.6                  # Balance coefficient for loss
